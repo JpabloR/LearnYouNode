@@ -1,0 +1,22 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[B\u001b[A\u001b[A\u001b[B\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JpabloR/LearnYouNode.git"
+  },
+  "author": "Juan Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JpabloR/LearnYouNode/issues"
+  },
+  "homepage": "https://github.com/JpabloR/LearnYouNode#readme",
+  "dependencies": {
+    "bl": "^1.1.2"
+  }
+}
