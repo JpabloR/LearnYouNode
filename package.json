@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JpabloR/LearnYouNode#readme",
   "dependencies": {
     "bl": "^1.1.2",
-    "strftime": "^0.9.2"
+    "strftime": "^0.9.2",
+    "through2-map": "^3.0.0"
   }
 }
